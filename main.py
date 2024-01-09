@@ -1,4 +1,4 @@
-# Kazakas
+# Kazkas
 
 def some_func():
     pass
